@@ -3,7 +3,7 @@
 ### VibeUB is an experiment: an unblocked games site made with AI. The goal is to see how much of a full website can be built by letting different AI models handle different parts of the project.
 
 ## The Cast
-### Claude 4.6 Sonnet — Main coder
+### Claude — Main coder
 ### DeepSeek — Backup coder
 ### ChatGPT — Assets & design
 ### Gemini — Extra help
