@@ -8,4 +8,4 @@
 ### ChatGPT — Assets & design
 ### Gemini — Extra help
 
--# «⚠ Experimental: Everything on VibeUB is made by AI. Expect things to break.»
+«⚠ Experimental: Everything on VibeUB is made by AI. Expect things to break.»
